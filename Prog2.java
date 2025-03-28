@@ -41,12 +41,6 @@ public class Prog2 {
                 // Remove apostrophes
                 word = word.replace("'", "");
 
-                
-                /*// Skip single-letter words
-                if (word.length() == 1) {
-                    continue;
-                }
-                */
                 // If the word is already processed, skip it
                 if (!uniqueWords.add(word)) {
                     continue;
