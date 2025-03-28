@@ -89,7 +89,7 @@ public class Prog2 {
 
     /**
      * Method: normalizeString
-     * Purpose: Converts accented characters (e.g., é, è, ê) to their base form (e).
+     * Purpose: Converts accented characters to their base form.
      * Parameters:
      *   String s - the string to normalize.
      * Returns:
