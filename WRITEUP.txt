@@ -1,0 +1,6 @@
+The worst case runtime for my algorithm is Θ(n), expressed in terms of the number of words n. Reading the file is Θ(n) 
+on its own while inserting and checking for duplicates in the HashSet takes Θ(1) per word. Because we are working with a 
+large file of many words, the length of each word is much smaller compared to n so the average length each word can be 
+considered a constant that doesn't effect our Θ(n) runtime overall. If we do take into account the length of each word as m, 
+then the worst case would be Θ(n mlog(m)) where n is the number of words and m is length of each word and the mlog(m) comes 
+from when the word is cleaned and sorted.
