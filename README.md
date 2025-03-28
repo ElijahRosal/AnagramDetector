@@ -12,7 +12,7 @@ Java program that reads an words from a file and finds sets of anagrams
 ## How to Compile
 Open a terminal and navigate to the program's directory. Then, run:
 ```bash
-javac Prog1.java
+javac Prog2.java
 ```
 ## How to Run
 ```bash
