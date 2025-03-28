@@ -4,7 +4,7 @@ CS 3310, Spring 2025
 Programming Assignment 2  
 
 ## Description
-Java program that reads in words from a file and finds sets of anagrams
+Java program that reads in words from a file and finds sets of anagrams.
 
 ## Files
 - `Prog2.java` – Main class that reads input and runs the program.
